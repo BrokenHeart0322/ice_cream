@@ -1,0 +1,26 @@
+/* .box{
+    position: relative;
+    top: 22px;
+    left: 111px;
+}
+header{
+    width: 1444px;
+    height: 55px;
+    background-color: aqua;
+    opacity: .5;
+    position: fixed;
+    margin: 0 auto;
+} */
+.relative{
+    position: relative;
+    width: 444px;
+    height: 222px;
+    border: 3px solid rgb(117, 11, 117);
+}
+.absolute{
+    position: absolute;
+    top: 88px;
+    right: 1px;
+    width: 222px; height: 111px;
+    border: 3px solid rgb(117, 11, 117);
+}
